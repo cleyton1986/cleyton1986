@@ -3,6 +3,13 @@
 ## Sobre Mim
 Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de tecnologia, incluindo desenvolvimento back-end, front-end, mobile e desktop. Com um forte background em Node.js, React.js, Delphi, e desenvolvimento mobile com React-Native e Flutter.
 
+<div> 
+  <a href="mailto:cleyton1986@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cleytonalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/channels/_cleytonalves" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/DeveloperAlves" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+ </div>
+
 ## Habilidades
 
 ### Desenvolvimento Back-end
