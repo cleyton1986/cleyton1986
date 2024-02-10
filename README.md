@@ -1,29 +1,25 @@
-## Cleyton Alves!
+# Cleyton Alves da Silva
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Cleyton-Delphi" height="30" width="90" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
-  <img align="center" alt="Cleyton-Elixir" height="30" width="100" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
-  <img align="center" alt="Cleyton-Node" height="30" width="100" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="Cleyton-Php" height="30" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  
-  <img align="center" alt="Cleyton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cleyton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Cleyton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cleyton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="Cleyton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <img align="center" alt="Cleyton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## Sobre Mim
+Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de tecnologia, incluindo desenvolvimento back-end, front-end, mobile e desktop. Com um forte background em Node.js, React.js, Delphi, e desenvolvimento mobile com React-Native e Flutter, trago soluções inovadoras e eficientes para diferentes plataformas e contextos. Localizado em Recife/PE, estou em busca de desafios que me permitam contribuir com minha expertise em tecnologia para alcançar resultados impactantes.
 
-</div>
-  
-  ##
- 
-<div> 
-  <a href="mailto:cleyton1986@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleytonalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.com/channels/_cleytonalves" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/DeveloperAlves" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
- </div>
+## Habilidades
+
+### Desenvolvimento Back-end
+- Node.js e Express ![Node.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#nodejs)
+- Nest.js ![Nest.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#nestjs)
+- Microsserviços e APIs REST
+
+### Desenvolvimento Desktop
+- Delphi ![Delphi](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#delphi)
+
+### Desenvolvimento Web
+- React.js ![React.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#react)
+- Next.js ![Next.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#nextjs)
+
+### Desenvolvimento Mobile
+- React-Native ![React-Native](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#reactnative)
+- Flutter ![Flutter](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#flutter)
+
+### Desenvolvimento Funcional com Elixir
+- Elixir ![Elixir](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#elixir)
