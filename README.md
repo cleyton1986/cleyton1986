@@ -19,6 +19,7 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
   <img align="center" alt="Cleyton-express" height="30" width="100" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img align="center" alt="Cleyton-festfy" height="30" width="100" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"> 
   <img align="center" alt="Cleyton-nestjs" height="30" width="100" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
+  <img align="center" alt="Cleyton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ### Desenvolvimento Desktop
@@ -27,12 +28,22 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
 </div>
 
 ### Desenvolvimento Web
-- React.js ![React.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#react)
-- Next.js ![Next.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#nextjs)
+<div style="display: inline_block">
+  <img align="center" alt="Cleyton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cleyton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cleyton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cleyton-Ts" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Cleyton-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Cleyton-Next" height="30" width="100" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</div>
 
 ### Desenvolvimento Mobile
-- React-Native ![React-Native](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#reactnative)
-- Flutter ![Flutter](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#flutter)
+<div style="display: inline_block">
+  <img align="center" alt="Cleyton-React-native" height="30" width="100" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Cleyton-flutter" height="30" width="100" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
 
 ### Desenvolvimento Funcional com Elixir
-- Elixir ![Elixir](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#elixir)
+<div style="display: inline_block">
+  <img align="center" alt="Cleyton-flutter" height="30" width="100" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
+</div>
