@@ -3,6 +3,7 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Cleyton-Delphi" height="30" width="90" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
+  <img align="center" alt="Cleyton-Elixir" height="30" width="100" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
   <img align="center" alt="Cleyton-Node" height="30" width="100" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="Cleyton-Php" height="30" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   
