@@ -20,12 +20,10 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
   <img align="center" alt="Cleyton-nestjs" height="30" width="100" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
 </div>
 
-- Node.js e Express ![Node.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#nodejs)
-- Nest.js ![Nest.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#nestjs)
-- Microsserviços e APIs REST
-
 ### Desenvolvimento Desktop
-- Delphi ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+<div style="display: inline_block">
+  <img align="center" alt="Cleyton-Delphi" height="30" width="90" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
+</div>
 
 ### Desenvolvimento Web
 - React.js ![React.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#react)
