@@ -12,6 +12,12 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
 
 ## Habilidades
 
+> ### Desenvolvimento Desktop
+> <div style="display: inline_block">
+>   <img align="center" alt="Cleyton-Delphi" height="30" width="100" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
+>   <img align="center" alt="Cleyton-Csharp" height="30" width="100" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+> </div>
+
 > ### Desenvolvimento Back-end
 > 
 > <div style="display: inline_block">
@@ -21,11 +27,6 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
 >   <img align="center" alt="Cleyton-festfy" height="30" width="100" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"> 
 >   <img align="center" alt="Cleyton-nestjs" height="30" width="100" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
 >   <img align="center" alt="Cleyton-Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-> </div>
-
-> ### Desenvolvimento Desktop
-> <div style="display: inline_block">
->   <img align="center" alt="Cleyton-Delphi" height="30" width="100" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
 > </div>
 
 > ### Desenvolvimento Web
@@ -48,4 +49,5 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
 > ### Desenvolvimento Funcional com Elixir
 > <div style="display: inline_block">
 >   <img align="center" alt="Cleyton-flutter" height="30" width="100" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
+>   <img align="center" alt="Cleyton-Clojure" height="30" width="100" src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white">
 > </div>
