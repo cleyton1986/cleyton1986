@@ -3,6 +3,8 @@
 ## Sobre Mim
 Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de tecnologia, incluindo desenvolvimento back-end, front-end, mobile e desktop. Com um forte background em Delphi, Node.js, React.js e desenvolvimento mobile com React-Native e Flutter.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 <div> 
   <a href="mailto:cleyton1986@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleytonalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
