@@ -15,6 +15,7 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
 ### Desenvolvimento Back-end
 <div style="display: inline_block">
   <img align="center" alt="Cleyton-Node" height="30" width="100" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Cleyton-Node-ts" height="30" width="100" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white">
   <img align="center" alt="Cleyton-express" height="30" width="100" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img align="center" alt="Cleyton-festfy" height="30" width="100" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"> 
   <img align="center" alt="Cleyton-nestjs" height="30" width="100" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
