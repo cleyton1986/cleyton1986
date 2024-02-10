@@ -1,7 +1,7 @@
 # Cleyton Alves da Silva
 
 ## Sobre Mim
-Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de tecnologia, incluindo desenvolvimento back-end, front-end, mobile e desktop. Com um forte background em Node.js, React.js, Delphi, e desenvolvimento mobile com React-Native e Flutter, trago soluções inovadoras e eficientes para diferentes plataformas e contextos. Localizado em Recife/PE, estou em busca de desafios que me permitam contribuir com minha expertise em tecnologia para alcançar resultados impactantes.
+Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de tecnologia, incluindo desenvolvimento back-end, front-end, mobile e desktop. Com um forte background em Node.js, React.js, Delphi, e desenvolvimento mobile com React-Native e Flutter.
 
 ## Habilidades
 
@@ -11,7 +11,7 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
 - Microsserviços e APIs REST
 
 ### Desenvolvimento Desktop
-- Delphi ![Delphi](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#delphi)
+- Delphi ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 
 ### Desenvolvimento Web
 - React.js ![React.js](https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/README.md#react)
