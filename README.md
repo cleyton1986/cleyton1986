@@ -12,6 +12,9 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
 
 ## Habilidades
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+>
 > ### Desenvolvimento Back-end
 <div style="display: inline_block">
  <img align="center" alt="Cleyton-Node" height="30" width="100" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
