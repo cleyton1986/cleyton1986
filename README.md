@@ -12,7 +12,7 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
 
 ## Habilidades
 
-> [!NOTE]
+> [!]
 > Useful information that users should know, even when skimming content.
 >
 > ### Desenvolvimento Back-end
