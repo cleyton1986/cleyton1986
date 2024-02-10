@@ -17,34 +17,34 @@ Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de te
 > <div style="display: inline_block">
 >   <img align="center" alt="Cleyton-Node" height="30" width="100" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 >   <img align="center" alt="Cleyton-Node-ts" height="30" width="100" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white">
->   <img align="center" alt="Cleyton-express" height="30" width="100" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+>   <img align="center" alt="Cleyton-express" height="30" width="110" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
 >   <img align="center" alt="Cleyton-festfy" height="30" width="100" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"> 
 >   <img align="center" alt="Cleyton-nestjs" height="30" width="100" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
->   <img align="center" alt="Cleyton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+>   <img align="center" alt="Cleyton-Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 > </div>
 
-### Desenvolvimento Desktop
-<div style="display: inline_block">
-  <img align="center" alt="Cleyton-Delphi" height="30" width="90" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
-</div>
+> ### Desenvolvimento Desktop
+> <div style="display: inline_block">
+>   <img align="center" alt="Cleyton-Delphi" height="30" width="90" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
+> </div>
 
-### Desenvolvimento Web
-<div style="display: inline_block">
-  <img align="center" alt="Cleyton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cleyton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cleyton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cleyton-Ts" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Cleyton-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Cleyton-Next" height="30" width="100" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-</div>
+> ### Desenvolvimento Web
+> <div style="display: inline_block">
+>   <img align="center" alt="Cleyton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+>   <img align="center" alt="Cleyton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+>   <img align="center" alt="Cleyton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+>   <img align="center" alt="Cleyton-Ts" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+>   <img align="center" alt="Cleyton-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+>   <img align="center" alt="Cleyton-Next" height="30" width="100" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+> </div>
 
-### Desenvolvimento Mobile
-<div style="display: inline_block">
-  <img align="center" alt="Cleyton-React-native" height="30" width="100" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Cleyton-flutter" height="30" width="100" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</div>
+> ### Desenvolvimento Mobile
+> <div style="display: inline_block">
+>   <img align="center" alt="Cleyton-React-native" height="30" width="100" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+>   <img align="center" alt="Cleyton-flutter" height="30" width="100" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+> </div>
 
-### Desenvolvimento Funcional com Elixir
-<div style="display: inline_block">
-  <img align="center" alt="Cleyton-flutter" height="30" width="100" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
-</div>
+> ### Desenvolvimento Funcional com Elixir
+> <div style="display: inline_block">
+>   <img align="center" alt="Cleyton-flutter" height="30" width="100" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
+> </div>
