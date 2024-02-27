@@ -1,6 +1,6 @@
 # Cleyton Alves
 
-Sou um Desenvolvedor de Software com vasta experiência em diversas stacks de tecnologia, incluindo desenvolvimento back-end, front-end, mobile e desktop. Com um forte background em Delphi, Node.js, React.js e desenvolvimento mobile com React-Native e Flutter. Ainda desbravando a programação funcional com Elixir e Cloujure.
+Sou um Desenvolvedor de Software com mais 15 anos de experiência em uma variedade de tecnologias, especializado em desenvolvimento desktop, back-end, front-end e mobile. Possuo um sólido conhecimento em **Delphi**, **Node.js**, **React.js**, além de experiência prática em desenvolvimento mobile utilizando **React-Native** e **Flutter**. Atualmente, estou expandindo meus horizontes na programação funcional, explorando as potencialidades do **Elixir** e **Clojure**.
 ##
 
 ![Cleyton GitHub stats](https://github-readme-stats.vercel.app/api?username=cleyton1986&show_icons=true&theme=dracula)
