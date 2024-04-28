@@ -31,7 +31,7 @@ Atualmente, estou expandindo meus horizontes com a linguagem **Go** e na program
 >   <img align="center" alt="Cleyton-festfy" height="30" width="100" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"> 
 >   <img align="center" alt="Cleyton-nestjs" height="30" width="100" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
 >   <img align="center" alt="Cleyton-Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
->   <img align="center" alt="Cleyton-Golang" height="30" width="100" src="https://img.shields.io/badge/Go?style=for-the-badge&logo=go&logoColor=blue">
+>   <img align="center" alt="Cleyton-Golang" height="30" width="100" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 > </div>
 
 > ### Desenvolvimento Web
