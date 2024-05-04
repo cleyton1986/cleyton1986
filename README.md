@@ -2,7 +2,7 @@
 
 Sou um Desenvolvedor de Software com mais 15 anos de experiência em diversas tecnologias, especializado em desenvolvimento desktop, back-end, front-end e mobile. Possuo um sólido conhecimento em **Delphi**(*O qual sou certificado Oficial Embarcadero®*), Back-end utilizando **Node.js**(ExpressJS, Fastify, NestJS e Adonis), Front-end utilizando **React.js**(Next.js, Vite, entre outras), além de experiências práticas em desenvolvimento mobile utilizando **React-Native** e **Flutter**. 
 
-Atualmente, estou expandindo meus horizontes com a linguagem **Go** e na programação funcional, explorando as potencialidades do **Elixir** e **Clojure**.  
+Atualmente, estou expandindo meus horizontes com a linguagem **Go**. E na programação funcional, explorando as potencialidades do **Elixir** e **Clojure**.  
 ##
 
 ![Cleyton GitHub stats](https://github-readme-stats.vercel.app/api?username=cleyton1986&show_icons=true&theme=dracula)
