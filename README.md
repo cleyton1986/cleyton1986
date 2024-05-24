@@ -1,8 +1,13 @@
 # Cleyton Alves
-
+[Português]
 Sou um Desenvolvedor de Software com mais 15 anos de experiência em diversas tecnologias, especializado em desenvolvimento desktop, back-end, front-end e mobile. Possuo um sólido conhecimento em **Delphi**(*O qual sou certificado Oficial Embarcadero®*), Back-end utilizando **Node.js**(ExpressJS, Fastify, NestJS e Adonis), Front-end utilizando **React.js**(Next.js, Vite, entre outras), além de experiências práticas em desenvolvimento mobile utilizando **React-Native** e **Flutter**. 
 
 Atualmente, estou expandindo meus horizontes com a linguagem **Go**. E na programação funcional, explorando as potencialidades do **Elixir** e **Clojure**.  
+
+[English]
+I am a Software Developer with over 15 years of experience in various technologies, specializing in desktop, back-end, front-end, and mobile development. I possess solid knowledge in Delphi (Official Embarcadero® Certified), back-end development using Node.js (ExpressJS, Fastify, NestJS, and Adonis), front-end development using React.js (Next.js, Vite, among others), as well as practical experience in mobile development using React-Native and Flutter.
+
+Currently, I am expanding my horizons with the Go language and exploring the potential of functional programming with Elixir and Clojure.
 ##
 
 ![Cleyton GitHub stats](https://github-readme-stats.vercel.app/api?username=cleyton1986&show_icons=true&theme=dracula)
